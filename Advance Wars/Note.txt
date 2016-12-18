@@ -1,0 +1,9 @@
+﻿B1: Map
+B2:
+B3: Đặt 1 con lính và di chuyển qua lại được, tấn công được, hiện ra máu của con lính
+B4: Khi nào chiếm được tòa nhà chính của đối phương thì là thắng
+
+Di chuyển , tầm bắn, xác nhận chọn lượt, tấn công, xác nhận bắn
+
+Huy: map và di chuyển cơ bản trên map
+Sơn: nhà cửa, điểm ở phía trên, 

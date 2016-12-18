@@ -1,0 +1,36 @@
+{"frames": {
+
+"Advance_Wars_logo.png":
+{
+	"frame": {"x":84,"y":0,"w":450,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":135},
+	"sourceSize": {"w":450,"h":135}
+},
+"splashScreen.png":
+{
+	"frame": {"x":0,"y":135,"w":640,"h":530},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":530},
+	"sourceSize": {"w":640,"h":530}
+},
+"start.png":
+{
+	"frame": {"x":0,"y":0,"w":84,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":28},
+	"sourceSize": {"w":84,"h":28}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "opening.png",
+	"format": "RGBA8888",
+	"size": {"w":640,"h":665},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b13008bb1287cb087ddad2e1e34fe35e:b3f882802a60da1ca68be9c0908ee27d:884e4860aecfa05e631faf9775f65fef$"
+}
+}

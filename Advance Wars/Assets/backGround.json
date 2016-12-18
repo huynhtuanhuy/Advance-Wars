@@ -1,0 +1,140 @@
+{"frames": {
+
+"airport.png":
+{
+	"frame": {"x":0,"y":0,"w":184,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":160},
+	"sourceSize": {"w":184,"h":160}
+},
+"bridge.png":
+{
+	"frame": {"x":184,"y":0,"w":184,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":160},
+	"sourceSize": {"w":184,"h":160}
+},
+"city.png":
+{
+	"frame": {"x":0,"y":160,"w":184,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":160},
+	"sourceSize": {"w":184,"h":160}
+},
+"cliff.png":
+{
+	"frame": {"x":184,"y":160,"w":184,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":160},
+	"sourceSize": {"w":184,"h":160}
+},
+"factory.png":
+{
+	"frame": {"x":0,"y":320,"w":184,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":160},
+	"sourceSize": {"w":184,"h":160}
+},
+"grass.png":
+{
+	"frame": {"x":184,"y":320,"w":184,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":160},
+	"sourceSize": {"w":184,"h":160}
+},
+"habor.png":
+{
+	"frame": {"x":0,"y":480,"w":184,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":160},
+	"sourceSize": {"w":184,"h":160}
+},
+"hill.png":
+{
+	"frame": {"x":184,"y":480,"w":184,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":160},
+	"sourceSize": {"w":184,"h":160}
+},
+"mainCity.png":
+{
+	"frame": {"x":0,"y":640,"w":184,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":160},
+	"sourceSize": {"w":184,"h":160}
+},
+"moutain.png":
+{
+	"frame": {"x":184,"y":640,"w":184,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":160},
+	"sourceSize": {"w":184,"h":160}
+},
+"river.png":
+{
+	"frame": {"x":0,"y":800,"w":184,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":160},
+	"sourceSize": {"w":184,"h":160}
+},
+"road.png":
+{
+	"frame": {"x":184,"y":800,"w":184,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":160},
+	"sourceSize": {"w":184,"h":160}
+},
+"sea.png":
+{
+	"frame": {"x":0,"y":960,"w":184,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":160},
+	"sourceSize": {"w":184,"h":160}
+},
+"seaShore.png":
+{
+	"frame": {"x":184,"y":960,"w":184,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":160},
+	"sourceSize": {"w":184,"h":160}
+},
+"sky.png":
+{
+	"frame": {"x":0,"y":1120,"w":184,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":160},
+	"sourceSize": {"w":184,"h":160}
+},
+"tree.png":
+{
+	"frame": {"x":184,"y":1120,"w":184,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":160},
+	"sourceSize": {"w":184,"h":160}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "backGround.png",
+	"format": "RGBA8888",
+	"size": {"w":368,"h":1280},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ff066a745dcd458d045b0afa7cf89f2e:507520f501f2c57dc06619e46bb210ea:10c1880a6b9c3e6d05573b1a44532b36$"
+}
+}
